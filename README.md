@@ -29,6 +29,7 @@ Part 1
 - Font has been changes to Fraunces
 - All text is centered and font size is made larger.
 
-Attributions:
-- Reffered to original style used by these gutenberg documents.
+**Attributions:**
+- Original style used by these gutenberg documents.
 
+Part 2
